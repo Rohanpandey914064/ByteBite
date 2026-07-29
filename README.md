@@ -170,7 +170,7 @@ Interactive force-directed graph showing how 50 ingredients relate to each other
 
 ---
 
-### 🌍 Localize `/localize`
+###  Localize `/localize`
 *(Coming Soon)*  
 A polished placeholder page for the Recipe Localization feature — recreating international dishes using local ingredients matched by molecular flavor profiles.
 
